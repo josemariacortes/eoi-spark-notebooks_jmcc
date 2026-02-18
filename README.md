@@ -12,10 +12,11 @@ Está explicado en el notebook.
 # Portfolio_Semana1.5_JMCC.ipynb
 Está basado en el porfolio proporcionado por el profesor. 
 Se han resuelto los ejercicios y al final he creado un ejercio de ETL.
-El ejercicio final se basa en los datos del pasaje del Titanic
-Para cargar datos de un repositorio publico y con formato CSV y cargarlo en  tabla temporales y consultar los datos.
-Me gustaría haber realizado más trabajos sobre este último ejercicio pero no he tenido tiempo.
-Para la descarga de dato he utilizado libreria de Kantan. No he posido versi eran las mas adecuadas pero eran las mas facil de usar en el notebook de Jupyter con Almond Scala.
+> ## Titanic
+> El ejercicio final se basa en los datos del pasaje del Titanic
+> Para cargar datos de un repositorio publico y con formato CSV y cargarlo en  tabla temporales y consultar los datos.
+> Me gustaría haber realizado más trabajos sobre este último ejercicio pero no he tenido tiempo.
+> Para la descarga de dato he utilizado libreria de Kantan. No he posido versi eran las mas adecuadas pero eran las mas facil de usar en el notebook de Jupyter con Almond Scala.
 
 # Spark_Plan.ipynb
 Lo dejo como referencia futuras. Está practicamente sin cambios, salavo la reducción de los datos generados.
